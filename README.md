@@ -22,6 +22,8 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
+  *[Campagnion](http://www.campagnion.org) - Drupal based petitions and CRM, online fundraising
+ 
 
 ## Software as a service:
 
@@ -31,6 +33,7 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
  * [Change.org](https://www.change.org/) Petcition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory. 
+ * [Mobilize](https://www.mobilize.io/) -  All the tools you need to organize and communicate with your groups.
  
 ## Projects to keep an eye on (ie projects in development)
 These are all projects that are works in process. Not finished, but worth checking out.
